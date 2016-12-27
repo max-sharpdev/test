@@ -1,0 +1,7 @@
+/Users/ekaterina/Projects/revamp/RevBindings/test/HttpClient-rev-my/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/ekaterina/Projects/revamp/RevBindings/test/HttpClient-rev-my/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Net.Http.dll
+/Users/ekaterina/Projects/revamp/RevBindings/test/HttpClient-rev-my/obj/iPhoneSimulator/Debug/mtouch-cache/Link/RevSDK.dll
+/Users/ekaterina/Projects/revamp/RevBindings/test/HttpClient-rev-my/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/ekaterina/Projects/revamp/RevBindings/test/HttpClient-rev-my/obj/iPhoneSimulator/Debug/mtouch-cache/Link/HttpClient.exe
+/Users/ekaterina/Projects/revamp/RevBindings/test/HttpClient-rev-my/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/ekaterina/Projects/revamp/RevBindings/test/HttpClient-rev-my/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Core.dll
